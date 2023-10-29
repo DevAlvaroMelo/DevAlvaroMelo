@@ -1,4 +1,4 @@
-### ```Olá, Seja Bem-Vindo!``` 👋
+### ```Olá, Seja bem-vindo!Eu sou o Álvaro Melo``` 👋
 
 
 Estou explorando o campo da programação com um foco particular no desenvolvimento de jogos. Minha jornada tem sido marcada por uma busca constante em aprimorar minhas habilidades em áreas específicas, como vetores, projeções, curvaturas, matrizes e mecânica de jogo. Estou apaixonado por entender as nuances da física de jogos, incluindo conceitos como força, ângulos e acelerações.
